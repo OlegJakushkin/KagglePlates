@@ -1,0 +1,8 @@
+classes= 2
+train  = /headless/darknet/plates/imgs/train.list
+valid  = /headless/darknet/plates/imgs/train.list
+names = /headless/darknet/plates/names.txt
+backup = /headless/darknet/backup/
+labels = /headless/darknet/plates/names.txt
+top=2
+
