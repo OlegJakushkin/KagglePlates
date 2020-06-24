@@ -1,7 +1,7 @@
 # KagglePlates
 DarkNet Yolo4 based solution fro Kaggle Platesv2
 
-##How to reproduce
+## How to reproduce
 - Install opencv 3.2
 - Build Darknet from https://github.com/AlexeyAB/darknet with CUDA
 - Get Kaggle data (I added to it 1x of googled images)
